@@ -1,0 +1,47 @@
+ * {
+     margin: 0;
+     padding: 0;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Work Sans', sans-serif;
+ }
+
+ header {
+     background-image: url("../images/banner/banner1.png");
+     background-size: cover;
+     padding-right: 230px;
+     height: 100vh;
+     text-align: right;
+     padding-bottom: 166px;
+ }
+
+ .new-year-content {
+     padding-top: 220px;
+     
+
+ }
+ .new year{
+    align-content: flex-end;
+ }
+
+ .new-year-tittle {
+     color: #151414;
+     font-size: 65px;
+     margin-bottom: 24px;
+ }
+
+ .new-year-description {
+     color: #444343;
+     font-size: 16px;
+     font-weight: 400;
+     margin-bottom: 32px;
+ }
+
+ .btn-primary {
+     border-radius: 5px;
+     background: #F15B22;
+     color: #FFF;
+     font-size: 20px;
+     font-weight: 600;
+     padding: 20px 25px;
+     border-radius: 0;
+ }

@@ -151,3 +151,57 @@
      padding: 20px 35px;
 
  }
+
+ /* Footer Section */
+ .footer-container {
+     display: flex;
+     justify-content: space-around;
+     gap: 330;
+     margin-top: 130px;
+     position: relative;
+     background: #151414;
+     color: white;
+
+
+ }
+
+ .future-work {
+     padding-top: 130px;
+     padding-left: 230px;
+     padding-bottom: 150px;
+ }
+
+ .future {
+     margin-bottom: 16px;
+ }
+
+ .footer-contact {
+     color: white;
+     margin-bottom: 20px;
+ }
+
+ .conect-me {
+     padding-top: 130px
+ }
+
+ .popularity {
+     color: #FFF;
+     font-size: 25px;
+     font-weight: 600;
+     margin-bottom: 52px;
+
+ }
+
+ .input {
+     background: #151414;
+     color:  #F3F3F3;
+     font-size: 18px;
+     font-weight: 400;
+     padding-top: 20px;
+     padding-left: 20px;
+     padding-bottom: 20px;
+ }
+
+ .btn-secondary {
+     display: block;
+ }
